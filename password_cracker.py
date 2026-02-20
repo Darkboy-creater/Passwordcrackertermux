@@ -25,7 +25,7 @@ class Config:
     BANNER = f"""
 {Fore.CYAN}╔══════════════════════════════════════════════════════════╗
 ║             PASSWORD CRACKER v{VERSION} - Termux               ║
-║           For EDUCATIONAL & TESTING purposes only          ║
+║           owner_maxod_ethical hacker        ║
 ╚══════════════════════════════════════════════════════════╝{Style.RESET_ALL}
     """
     
